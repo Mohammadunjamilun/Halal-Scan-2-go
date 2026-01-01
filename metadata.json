@@ -1,0 +1,7 @@
+{
+  "name": "HalalScanner",
+  "description": "Scan product ingredients to verify Halal/Haram status using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
